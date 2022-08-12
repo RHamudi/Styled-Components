@@ -1,8 +1,9 @@
+import Titulo from "./Components/Titulo";
 
 
 function App() {
   return (
-    <div>App</div>
+    <div><Titulo/></div>
   );
 }
 

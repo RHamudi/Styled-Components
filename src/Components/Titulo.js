@@ -1,6 +1,8 @@
+import {Title} from './Styled'
+
 function Titulo() {
     return (
-        <h1>Titulo</h1>
+        <Title backGround="blue" >Testando Styled components</Title>
     )
 }
 
